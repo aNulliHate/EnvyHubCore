@@ -1,0 +1,5 @@
+name: EnvySkyBlockCore
+main: dev.anullihate.envyskyblockcore.Core
+version: ${pom.version}
+api: "[1.0.0]"
+author: anullihate
