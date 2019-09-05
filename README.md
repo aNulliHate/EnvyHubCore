@@ -1,1 +1,1 @@
-# EnvySkyBlockCore
+# EnvyHubCore
