@@ -1,7 +1,7 @@
-package dev.anullihate.envyskyblockcore;
+package dev.anullihate.envyhubcore;
 
 import cn.nukkit.plugin.PluginBase;
-import dev.anullihate.envyskyblockcore.listeners.PlayerEventListener;
+import dev.anullihate.envyhubcore.listeners.PlayerEventListener;
 
 public class Core extends PluginBase {
 

@@ -1,10 +1,10 @@
-package dev.anullihate.envyskyblockcore.listeners;
+package dev.anullihate.envyhubcore.listeners;
 
 import cn.nukkit.Player;
 import cn.nukkit.event.EventHandler;
 import cn.nukkit.event.Listener;
 import cn.nukkit.event.player.PlayerJoinEvent;
-import dev.anullihate.envyskyblockcore.Core;
+import dev.anullihate.envyhubcore.Core;
 
 public class PlayerEventListener implements Listener {
 
