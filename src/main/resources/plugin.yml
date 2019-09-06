@@ -1,5 +1,18 @@
 name: EnvyHubCore
 main: dev.anullihate.envyhubcore.Core
 version: ${pom.version}
-api: "[1.0.0]"
+api: ["1.0.0"]
 author: anullihate
+
+depend:
+  - "SynapseAPI"
+
+commands:
+  enpc:
+    description: ENPC command
+    usage: "/enpc"
+    permission: enpc.edit
+permissions:
+  enpc.edit:
+    description: "ENPC permission"
+    default: op
